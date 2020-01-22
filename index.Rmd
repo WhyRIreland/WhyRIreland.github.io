@@ -27,7 +27,7 @@ Column {data-width=800}
 
 Column {data-width=600}
 ---------------
-<h4> Limerick Event </h4>
+<h4> Why-R? Limerick </h4>
 
 * Date: Saturday 1st February 2020
 * Location: Thomond Park Stadium, Cratloe Road, Limerick.
@@ -44,7 +44,7 @@ Tickets
 
 <h4> Tickets</h4>
 
-* Tickets can be ontained from [Career Zoo'z Eventtbrite Page](https://www.eventbrite.ie/e/career-zoo-presents-tech-on-the-wild-atlantic-way-2020-tickets-77292514993#tickets)
+* Tickets can be ontained from [Career Zoo'z Eventbrite Page](https://www.eventbrite.ie/e/career-zoo-presents-tech-on-the-wild-atlantic-way-2020-tickets-77292514993#tickets)
 * Tickets are free, but you must register for the event in advance.
 * You should register for both Career Zoo and Why R?
 * Please note that there are a limited number of tickets for the WhyR? event.
@@ -163,7 +163,35 @@ Column {.tabset}
 
 ### Data Science Learnathon with KNIME
 
-*
+<b>What is a learnathon?</b>
+
+It's between a hackathon and a workshop. It's like a workshop because we'll learn more about the data science cycle - data access, data blending, data preparation, model training, optimization, testing, and deployment. It's like a hackathon because we'll work in groups to hack a workflow-based solution to guided exercises.
+
+The tool of choice for this learnathon is KNIME Analytics Platform - an open, open-source, GUI driven, data analytics platform, that covers all your data needs from data import to final deployment. Being open, KNIME offers a vast integration and IDE environment for R, Python, SQL, and Spark.
+
+After an initial introduction to the tool and to the data science cycle, we'll split in to groups. Each group will focus on one of three aspects of the data science cycle:
+
+* Group 1 - Working on the raw data. Data access and data preparation.
+
+* Group 2 - Machine Learning. Which model shall I use? Which parameters?
+
+* Group 3 - I have a great model. Now what? The model deployment phase.
+
+Please also download the workshop material (jump-start workflows and instructions) from here. We'll import this material during the learnathon.
+
+Paolo Tamagnini is a data scientist at KNIME, holds a master's degree in data science from Sapienza University of Rome and has research experience from NYU in data visualization techniques for machine learning interpretability. 
+
+Follow Paolo on LinkedIn: linkedin.com/in/paolo-tamagnini/  
+
+### Machine learning for coders
+
+Machine Learning (ML) is no longer ring fenced to researchers and data scientists.
+
+New high-level APIs are driving the democratisation of ML applications and enabling programmers to build and implement ML solutions in their own work. 
+
+This talk describes how these APIs work and why they sometimes perform better than even state-of-the-art solutions.
+
+Presenter: Iain Keaney (skellig.ai)
 
 ### Github
 
@@ -179,8 +207,6 @@ Then a hands-on session, where we will run through multiple templated practical 
 Lastly, we will wrap up by discussing other free offerings such as hosting websites using Pages.
 
 (Requirement: A laptop)
-
-### Machine Learning For Coders
 
 Why R? Pre-meetings
 ==============================
