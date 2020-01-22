@@ -4,16 +4,25 @@ output:
   flexdashboard::flex_dashboard:
     theme: united
     css: style.css
+    vertical_layout: scroll
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+
 ```
 
 Limerick 2020
 ===============================
 
-Limerick Event
+Column
+---------------
+<img src = "./resources/whyrlimerick2020.jpg" height =400>
+
+
+Column
+---------------
+<h4> Limerick Event </h4>
 
 * Saturday 1st February 2020
 * Thomond Park Stadium, Cratloe Road, Limerick/
@@ -25,7 +34,7 @@ Limerick Event
 * Personnel order: Kevin O'Brien, Joseph O'Brien, David Curran and Agnes Maciocha
 
 
-### Keynotes
+<h4> Keynotes </h4>
 
 * There are three keynotes for the community track. 
 * Please note that the Keynotes talks are not covering topics that are specific to R.
