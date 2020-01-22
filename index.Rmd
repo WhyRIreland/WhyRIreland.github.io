@@ -15,35 +15,38 @@ knitr::opts_chunk$set(echo = TRUE)
 Limerick 2020
 ===============================
 
-Column
----------------
-<img src = "./resources/whyrlimerick2020.jpg" height =400>
+Column {data-width=800}
+--------------------
 
 
-Column
+<div class="container">
+<div>
+<img src="./resources/whyrlimerick2020.jpg" width=450 alt="">
+</div>
+</div>
+
+Column {data-width=600}
 ---------------
 <h4> Limerick Event </h4>
 
-* Saturday 1st February 2020
-* Thomond Park Stadium, Cratloe Road, Limerick/
-* 10.00am to 16:30pm approx
+* Date: Saturday 1st February 2020
+* Location: Thomond Park Stadium, Cratloe Road, Limerick.
+* Times: 10.00am to 16:30pm approx
 * Career Zoo Limerick's [Website](https://www.careerzoo.ie/limerick/)
 * Why R? Limerick's [Website](https://www.careerzoo.ie/limerick/why-r-mini-conference.html)
 
+<h4> Tickets </h4>
 * Admission is free, but attendees must have registered for Career Zoo.
-* Personnel order: Kevin O'Brien, Joseph O'Brien, David Curran and Agnes Maciocha
 
-
-<h4> Keynotes </h4>
-
-* There are three keynotes for the community track. 
-* Please note that the Keynotes talks are not covering topics that are specific to R.
 
 Tickets
 ===============================
 
+<h4> Tickets</h4>
+
+* Tickets can be ontained from [Career Zoo'z Eventtbrite Page](https://www.eventbrite.ie/e/career-zoo-presents-tech-on-the-wild-atlantic-way-2020-tickets-77292514993#tickets)
 * Tickets are free, but you must register for the event in advance.
-* You must register for both Career Zoo and Why R?
+* You should register for both Career Zoo and Why R?
 * Please note that there are a limited number of tickets for the WhyR? event.
 
 Schedule
@@ -51,7 +54,7 @@ Schedule
 
 
 
-### Schedule (Provisional)
+<h2> Schedule </h2>
 
 #### 10:00 - 10:30 MORNING TALK 1 (Munster Suite)
 * What makes a good (fantasy) football manager?
