@@ -151,19 +151,23 @@ Schedule
 Workshops
 ==============================
 
-#### Machine Learning With Julia
+Column {.tabset}
+------------------
+
+### Machine Learning With Julia
 
 * THIS EVENT IS NOW SOLD OUT
 
-#### Data Science Learnathon with KNIME
+### Data Science Learnathon with KNIME
 
 *
 
-#### Github
+### Github
 
 * Turbo-Charging your technical dexterity using Git and GitHub: A hands-on workshop
 
-Abstract: This workshop covers all that is needed to integrate git into your daily development life using GitHub.
+<h4>Abstract: </h4>
+This workshop covers all that is needed to integrate git into your daily development life using GitHub.
 
 We will begin with a discussion of what git is and how it works. 
 
@@ -173,15 +177,20 @@ Lastly, we will wrap up by discussing other free offerings such as hosting websi
 
 (Requirement: A laptop)
 
+### Machine Learning For Coders
 
 Why R? Pre-meetings
 ==============================
 
-Why R? @ Career Zoo Limerick
+Column
+---------------------------------
+<img src = "./resources/europa_2020.jpg" height =400>
 
 
-
+Column
+----------------------------------
 #### Why R Pre-Meeting Series
+
 
 * Why R? - [Website](https://www.whyr.pl)
 
@@ -189,11 +198,21 @@ Why R? @ Career Zoo Limerick
 Forwards
 ===============================
 
+Column
+---------------
+
+<img src = "./resources/ForwardsSA.JPG" height =300>
+
+<img src = "./resources/WhyR-SouthernAfrica.jpeg" height =300>
+
+Column
+---------------
+
 Forwards (the R Foundation taskforce for underrepresented groups) plan to deliver a number of workshops and talks in neighbouring countries to help develop the R community in Southern Africa. 
 
 The events will be lead by Heather Turner, chair of [Forwards](forwards.github.io), in collaboration with local community organisers and will take place in the first half of March 2020.
 
-### Itinerary
+#### Itinerary
 
 The planned itinerary is outlined below, further links and dates will be added when available.
 
