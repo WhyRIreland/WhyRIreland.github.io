@@ -151,15 +151,13 @@ Schedule
 
 
 
-Workshops
+
+KNIME Learnathon {data-navmenu="Workshops"}
 ==============================
 
-Column {.tabset}
+Column 
 ------------------
 
-### Machine Learning With Julia
-
-* THIS EVENT IS NOW SOLD OUT
 
 ### Data Science Learnathon with KNIME
 
@@ -183,17 +181,38 @@ Paolo Tamagnini is a data scientist at KNIME, holds a master's degree in data sc
 
 Follow Paolo on LinkedIn: linkedin.com/in/paolo-tamagnini/  
 
-### Machine learning for coders
+Machine Learning With Julia {data-navmenu="Workshops"}
+=====================================================
 
-Machine Learning (ML) is no longer ring fenced to researchers and data scientists.
+Column
+----------------------------
 
-New high-level APIs are driving the democratisation of ML applications and enabling programmers to build and implement ML solutions in their own work. 
+### Machine Learning With Julia
 
-This talk describes how these APIs work and why they sometimes perform better than even state-of-the-art solutions.
+* THIS EVENT IS NOW SOLD OUT
+
+
+Machine Learning For Coders {data-navmenu="Workshops"}
+=====================================================
+
+Column
+----------------------------
+
+### Machine Learning For Coders
+
+* Machine Learning (ML) is no longer ring fenced to researchers and data scientists.
+
+* New high-level APIs are driving the democratisation of ML applications and enabling programmers to build and implement ML solutions in their own work. 
+
+* This talk describes how these APIs work and why they sometimes perform better than even state-of-the-art solutions.
 
 Presenter: Iain Keaney (skellig.ai)
 
-### Github
+Github {data-navmenu="Workshops"}
+=====================================================
+
+Column
+----------------------------
 
 * Turbo-Charging your technical dexterity using Git and GitHub: A hands-on workshop
 
