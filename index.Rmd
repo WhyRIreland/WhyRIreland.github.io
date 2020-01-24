@@ -73,12 +73,12 @@ Column
 |11:20-11:50| <b>CAREER ZOO COMMUNITY KEYNOTE @ Main stage</b> <br> [Dr. Norah Patten](https://twitter.com/SpaceNorah) <br> Astronaut candidate with Project PoSSUM (Polar Suborbital Science in the Upper Mesosphere)  <br> (*N.B. This is not an R-specific talk*) |
 | | (*Pause*) |
 | 12:00-12:30 | <b>Morning Session 3 (Munster Suite)</b> <br> ETL with R: a quantitative finance application <br> Davide Magno |
-| 12:30-13:00 | <b>Morning Session 4 (Munster Suite)</b> <br> R in official Statistic <br> Sorcha O'Callaghan <br>                Central Statistics Office, Cork [www.cso.ie](www.cso.ie) |
+| 12:30-13:00 | <b>Morning Session 4 (Munster Suite)</b> <br> R  - a Disruptive Force in Official Statistics <br> Sorcha O'Callaghan <br>                Central Statistics Office, Cork [www.cso.ie](www.cso.ie) |
 | | (*Pause*) |
 |13:10-13:40| <b>CAREER ZOO COMMUNITY KEYNOTE @ Main stage</b> <br>     Helping beekeepers to reduce honeybee losses & increase hive productivity with IOT technology.<br> Dr Fiona Edwards Murphy, CEO and Co-founder of [ApisProtect](https://www.apisprotect.com/home) <br> (*N.B. This is not an R-specific talk*) |
 | | (*Break*) |
-|14.10 - 14:40 |  <b>Afternoon Session 1 (Munster Suite)</b> <br>          Knime with R <br>         Presented by [Paolo Tamagnini](https://twitter.com/paolotamag) |
-|14.40 - 15:10 |  <b>Afternoon Session 2 (Munster Suite)</b> <br>         Data Optimisation Network <br>         Gaurav Pahuja <br>         (Finalist in the Student Data Scientist of the Year category of the  [DatSci Awards 2019](https://www.datsciawards.com/finalists-2019/#/))|
+|14.10 - 14:40 |  <b>Afternoon Session 1 (Munster Suite)</b> <br>   Knime with R <br>         Presented by [Paolo Tamagnini](https://twitter.com/paolotamag) |
+|14.40 - 15:10 |  <b>Afternoon Session 2 (Munster Suite)</b> <br>   Data Optimisation Networks <br>         Gaurav Pahuja <br>         (Finalist in the Student Data Scientist of the Year category of the  [DatSci Awards 2019](https://www.datsciawards.com/finalists-2019/#/))|
 | | (*Pause*) |
 |15:20-15:50| <b>CAREER ZOO COMMUNITY KEYNOTE @ Main stage</b> <br> [Abeba Birhane](https://twitter.com/Abebab) - Award winning PHD Student on ethics in AI <br> (*N.B. This is not an R-specific talk*) |
 | | (*Pause*) |
@@ -99,8 +99,36 @@ Column
 
 ### Using R for Stylometry
 
-"Who really wrote Shakespeare? A quick introduction to using R for stylometry."
-This workshop will demo the stylo package in R, conducting stylometric analyses of works by Shakespeare and some of his contemporaries. The workshop will focus on the most important functions in stylo covering both supervised and unsupervised learning methods for authorship attribution.
+<b>Who really wrote Shakespeare? A quick introduction to using R for stylometry.</b>
+
+This workshop will demo the stylo package in R, conducting stylometric analyses of works by Shakespeare and some of his contemporaries. 
+
+The workshop will focus on the most important functions in stylo covering both supervised and unsupervised learning methods for authorship attribution.
+<p>
+
+<p>
+
+<b> Presenter: [Rory Quinn](https://twitter.com/RoryJosephQuinn)</b>
+
+Bio: I am a data science enthusiast who enjoys learning new tools and methodologies for extracting useful insight from data. I particularly like using R for its extensibility and great package ecosystem.
+
+<p>
+<b> Time and Location </b>
+
+* The workshop takes place on Saturday 1st February at Thomond Park.
+* The workshop will take place on Morning Session (11:00 to 12:00) in a workshop room at Career Zoo.
+* The venue is ordinarily a corporate box suite, and has a capacity of 12 people.
+
+<p>
+<b> Requirement </b>
+
+* Please bring a fully charged laptop with a recent version of R installed.
+
+<p>
+<b>Registration</b>
+
+* To register, visit the [career zoo eventbrite site](https://www.eventbrite.ie/e/career-zoo-presents-tech-on-the-wild-atlantic-way-2020-tickets-77292514993#tickets) and select a general admission and a ticket for this workshop.
+
 
 KNIME Learnathon {data-navmenu="Workshops"}
 ==============================
@@ -111,25 +139,31 @@ Column
 
 ### Data Science Learnathon with KNIME
 
-<b>What is a learnathon?</b>
+<p>
+<b>What is a Learnathon?</b>
 
 It's between a hackathon and a workshop. It's like a workshop because we'll learn more about the data science cycle - data access, data blending, data preparation, model training, optimization, testing, and deployment. It's like a hackathon because we'll work in groups to hack a workflow-based solution to guided exercises.
 
-The tool of choice for this learnathon is KNIME Analytics Platform - an open, open-source, GUI driven, data analytics platform, that covers all your data needs from data import to final deployment. Being open, KNIME offers a vast integration and IDE environment for R, Python, SQL, and Spark.
+Full Details can be found on the [Career Zoo Website](https://www.careerzoo.ie/limerick/data-science-learnathon.html)
 
-After an initial introduction to the tool and to the data science cycle, we'll split in to groups. Each group will focus on one of three aspects of the data science cycle:
-
-* Group 1 - Working on the raw data. Data access and data preparation.
-
-* Group 2 - Machine Learning. Which model shall I use? Which parameters?
-
-* Group 3 - I have a great model. Now what? The model deployment phase.
-
-Please also download the workshop material (jump-start workflows and instructions) from here. We'll import this material during the learnathon.
+<p>
+<b>  About the Presenter</b>
 
 Paolo Tamagnini is a data scientist at KNIME, holds a master's degree in data science from Sapienza University of Rome and has research experience from NYU in data visualization techniques for machine learning interpretability. 
+Follow Paolo on [LinkedIn](linkedin.com/in/paolo-tamagnini/)  
 
-Follow Paolo on LinkedIn: linkedin.com/in/paolo-tamagnini/  
+<p>
+<b> Requirements</b>
+
+* Please bring your own laptop, ideally pre-installed with the latest version of KNIME Analytics Platform. 
+* Check the Career Zoo Websit for more details.
+
+<p>
+<b> Registration </b>
+
+* To register, visit the [career zoo eventbrite site](https://www.eventbrite.ie/e/career-zoo-presents-tech-on-the-wild-atlantic-way-2020-tickets-77292514993#tickets) and select a general admission and a ticket for this workshop.
+
+
 
 Machine Learning With Julia {data-navmenu="Workshops"}
 =====================================================
@@ -139,19 +173,29 @@ Column
 
 ### Machine Learning With Julia
 
-* THIS EVENT IS NOW SOLD OUT
+<b>THIS EVENT IS NOW SOLD OUT</b>
 
 
-Join Julia Computing's Avik Sengupta (VP Engineering) who is leading a workshop on 'Machine Learning with Julia'.
+Join Julia Computing's [Avik Sengupta (VP Engineering)](https://twitter.com/aviksengupta) who is leading a workshop on 'Machine Learning with Julia'.
+
+<p>
 
 Julia is the fastest high-performance open source computing language for data, analytics, algorithmic trading, machine learning, artificial intelligence, and other scientific and numeric computing applications. Julia solves the two language problem by combining the ease of use of Python and R with the speed of C++.
 
+<p>
+
 Julia works with GPUs, TPUs, multithreading and parallel processing to deliver seamless unlimited scalability from a single CPU to thousands of nodes, cores and threads in the public or private cloud. Julia has run at petascale on 9,300 Knights Landing (KNL) nodes with 650,000 cores and 1.3 million threads to analyze over 56 terabytes of data using Cori, one of the ten largest and most powerful supercomputers in the world.
-
+<p>
 Julia has been downloaded more than 12 million times and is used at more than 1,500 universities. Julia co-creators are the winners of the 2019 James H. Wilkinson Prize for Numerical Software and the 2019 Sidney Fernbach Award.
-
+<p>
 Julia Computing was founded in 2015 by all the creators of Julia to provide products including JuliaTeam, JuliaSure and JuliaRun to businesses and researchers using Julia.
 
+<p>
+<b> Links </b>
+
+* [The Julia Language](https://julialang.org/) - The main portal for the Julia language
+* [JuliaCon 2020, Lisbon](www.juliacon.org) - Julia's international conference
+* [Julia Computing](www.juliacomputing.com) - Professional services for Julia 
 
 Machine Learning For Coders {data-navmenu="Workshops"}
 =====================================================
@@ -161,32 +205,85 @@ Column
 
 ### Machine Learning For Coders
 
+<b> Machine Learning For Coders </b>
+
+Presenter: Iain Keaney ( [skellig.ai](www.skellig.ai) )
+
+<p>
+<b> Abstract</b>
+
 * Machine Learning (ML) is no longer ring fenced to researchers and data scientists.
 
 * New high-level APIs are driving the democratisation of ML applications and enabling programmers to build and implement ML solutions in their own work. 
 
-* This talk describes how these APIs work and why they sometimes perform better than even state-of-the-art solutions.
+* This workshop describes how these APIs work and why they sometimes perform better than even state-of-the-art solutions.
 
-Presenter: Iain Keaney (skellig.ai)
+<p>
+<b> Time and Location</b>
 
-Github {data-navmenu="Workshops"}
+* The workshop takes place on Saturday 1st February at Thomond Park.
+
+* The workshop will take place on Morning Session (11:00 to 13:00) in a workshop room at Career Zoo.
+
+* The venue is ordinarily a corporate box suite, and has a capacity of 12 people.
+
+<p>
+<b>Requirement</b>
+
+* Please bring a fully charged laptop.
+
+<p>
+<b>About the Presenter</b>
+
+As a creative engineer, I love to build new things. I've previously worked on a computer vision start-up, developing a consumer solution for mobile 3D scanning. My PhD focused on an  application of artificial intelligence in offshore engineering.
+
+In 2017 I was named in The Sunday Business Post's 30 Under 30 Most Interesting People in Irish Tech. 
+
+
+<p>
+<b>Registration</b>
+
+* To register, visit the [career zoo eventbrite site](https://www.eventbrite.ie/e/career-zoo-presents-tech-on-the-wild-atlantic-way-2020-tickets-77292514993#tickets) and select a general admission and a ticket for this workshop.
+
+
+Git and GitHub: A hands-on workshop {data-navmenu="Workshops"}
 =====================================================
 
 Column
 ----------------------------
 
-* Turbo-Charging your technical dexterity using Git and GitHub: A hands-on workshop
+### Git and GitHub: A hands-on workshop
 
-<h5>Abstract: </h5>
-This workshop covers all that is needed to integrate git into your daily development life using GitHub.
+Venue: Workshop Room
 
-We will begin with a discussion of what git is and how it works. 
+Workshop (14:00 - 16:00)
 
-Then a hands-on session, where we will run through multiple templated practical scenarios using Git commands. 
+Presented by Chidubem Iddianozie (UCD /Github)
 
-Lastly, we will wrap up by discussing other free offerings such as hosting websites using Pages.
+<p>
+<b>Abstract</b>
 
-(Requirement: A laptop)
+Turbo-Charging your technical dexterity using Git and GitHub: A hands-on workshop.
+
+* This workshop covers all that is needed to integrate git into your daily development life using GitHub.
+
+* We will begin with a discussion of what git is and how it works. 
+
+* Then a hands-on session, where we will run through multiple templated practical scenarios using Git commands. 
+
+* Lastly, we will wrap up by discussing other free offerings such as hosting websites using Pages.
+
+<p>
+<b>Requirement </b>
+
+* A laptop.
+
+<p>
+<b>Registration</b>
+* To register, visit the [career zoo eventbrite site](https://www.eventbrite.ie/e/career-zoo-presents-tech-on-the-wild-atlantic-way-2020-tickets-77292514993#tickets) and select a general admission and a ticket for this workshop.
+
+
+
 
 Why R? Pre-meetings
 ==============================
