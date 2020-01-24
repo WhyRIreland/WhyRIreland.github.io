@@ -15,19 +15,21 @@ knitr::opts_chunk$set(echo = TRUE)
 Why R? Limerick 2020
 ===============================
 
-Column {data-width=800}
+Column {data-width=700}
 --------------------
 
 
 <div class="container">
+<center>
 <div>
 <img src="./resources/whyrlimerick2020.jpg" width=450 alt="">
 </div>
+</center>
 </div>
 
-Column {data-width=600}
+Column {data-width=800}
 ---------------
-<h4> Why-R? Limerick </h4>
+<h5> Why-R? Limerick </h5>
 
 * Date: Saturday 1st February 2020
 * Location: Thomond Park Stadium, Cratloe Road, Limerick.
@@ -35,14 +37,14 @@ Column {data-width=600}
 * Career Zoo Limerick's [Website](https://www.careerzoo.ie/limerick/)
 * Why R? Limerick's [Website](https://www.careerzoo.ie/limerick/why-r-mini-conference.html)
 
-<h4> Tickets </h4>
+<h5> Tickets </h5>
 * Admission is free, but attendees must have registered for Career Zoo.
 
 
 Tickets
 ===============================
 
-<h4> Tickets</h4>
+<h5> Tickets</h5>
 
 * Tickets can be ontained from [Career Zoo's Eventbrite Page](https://www.eventbrite.ie/e/career-zoo-presents-tech-on-the-wild-atlantic-way-2020-tickets-77292514993#tickets)
 * Tickets are free, but you must register for the event in advance.
@@ -57,98 +59,31 @@ Column
 
 ### Schedule
 
-<h2> Schedule </h2>
-
-#### 10:00 - 10:30 MORNING TALK 1 (Munster Suite)
-* What makes a good (fantasy) football manager?
-* Presented by [Joey O'Brien](https://twitter.com/obrienj_)
-
-#### 10:30 - 11:00 MORNING TALK 2 (Munster Suite)
-
-* Using R-Shiny to Teach Quantitative Research Methods
-* Presented by [Dr. Brendan Halpin (UL Sociology)](https://twitter.com/BrendanTHalpin)
-
-<hline>
-
-#### 11:10 CAREER ZOO COMMUNITY KEYNOTE @ Main stage
-
-* [Dr. Norah Patten](https://twitter.com/SpaceNorah)
-* Astronaut candidate with Project PoSSUM (Polar Suborbital Science in the Upper Mesosphere)
-* N.B. This is not an R-specific talk
-* TBC with Career Zoo Organizers
-
-<hline>
-
-#### 11.50  MORNING TALK 3 (Munster Suite)
-* ETL with R: a quantitative finance application
-* Davide Magno
-
-* *Parallel to Creating an Autonomous Driving Hub*
-* *N.B. Julia Computing should be scheduled in to be available for this* 
-
-<hline>
-
-#### 12.30 CAREER ZOO COMMUNITY KEYNOTE @ Main stage
-* Helping beekeepers to reduce #honeybee losses & increase hive productivity with IOT technology.
-* Dr Fiona Edwards Murphy, CEO and Co-founder of ApisProtect 
-* N.B. This is not an R-specific talk
-* TBC with Career Zoo Organizers
-
-<hline>
-<hline>
-
-#### 13.10  LUNCH
-
-* No Talk Scheduled
-* (*Parallel to: Sci-tech / Life Balance. Meet the STEM workers who have chosen the Midwest* )
-
-<hline>
-<hline>
+<h3> Schedule </h3>
 
 
-#### 13.40  AFTERNOON TALK 1 (Munster Suite)
-* Knime with R
-* Presented by [Paolo Tamagnini](https://twitter.com/paolotamag)
-* *Parallel to: "Keynote Panel with Jaguar Land Rover"*
-
-#### 14.10  AFTERNOON TALK 2 (Munster Suite)
-
-* Data Optimisation Network
-* Gaurav Pahuja
-* Finalist in the European DatSci Student Data Scientist of the Year Awards 2019
-* (*Parallel to: Sci-tech Ecosystem in the Midwest*)
-
-####  14.40  AFTERNOON TALK 3 (Munster Suite)
-* Visualizing Trends in the Loudness of Popular Music
-* Presented by [David Curran](https://twitter.com/iamreddave)
-
-* *Parallel to: "Opportunities in Aviation"*
-
-<hline>
+<br>
 
 
-#### 15.10 CAREER ZOO COMMUNITY KEYNOTE @ Main stage
-
-* [Abeba Birhane](https://twitter.com/Abebab) - Award winning PHD Student on ethics in AI 
-* TBC with Career Zoo Organizers
-* N.B. This is not an R-specific talk
-* (This talk might be reschedule to previous slot)
-
-<hline>
-
-
-#### 15.40 AFTERNOON TALK 4 (Munster Suite)
-* R in Official Statistics
-* Sorcha O'Callaghan
-* Central Statistics Office, Cork [www.cso.ie](www.cso.ie)
-
-
-
-#### 16:20 AFTERNOON TALK 5 (Munster Suite)
-* Agnes Maciocha (IT Carlow)
-* Starting Time TBC
-* Due to arrive at 16:00
-* *Parallel to AI and emerging technologies creating new careers* 
+| Time | Talk |
+|----------:|:----------------------------------------------------|
+| 10:00-10:30 | <b>Morning Session 1 (Munster Suite)</b> <br> What makes a good (fantasy) football manager? <br> Presented by [Joey O'Brien](https://twitter.com/obrienj_) |
+| 10:30-11:00 | <b>Morning Session 2 (Munster Suite)</b> <br> Using R-Shiny to Teach Quantitative Research Methods <br> Presented by [Dr. Brendan Halpin (UL Sociology)](https://twitter.com/BrendanTHalpin) |
+| | (*Break*) |
+|11:20-11:50| <b>CAREER ZOO COMMUNITY KEYNOTE @ Main stage</b> <br> [Dr. Norah Patten](https://twitter.com/SpaceNorah) <br> Astronaut candidate with Project PoSSUM (Polar Suborbital Science in the Upper Mesosphere)  <br> (*N.B. This is not an R-specific talk*) |
+| | (*Pause*) |
+| 12:00-12:30 | <b>Morning Session 3 (Munster Suite)</b> <br> ETL with R: a quantitative finance application <br> Davide Magno |
+| 12:30-13:00 | <b>Morning Session 4 (Munster Suite)</b> <br> R in official Statistic <br> Sorcha O'Callaghan <br>                Central Statistics Office, Cork [www.cso.ie](www.cso.ie) |
+| | (*Pause*) |
+|13:10-13:40| <b>CAREER ZOO COMMUNITY KEYNOTE @ Main stage</b> <br>     Helping beekeepers to reduce honeybee losses & increase hive productivity with IOT technology.<br> Dr Fiona Edwards Murphy, CEO and Co-founder of [ApisProtect](https://www.apisprotect.com/home) <br> (*N.B. This is not an R-specific talk*) |
+| | (*Break*) |
+|14.10 - 14:40 |  <b>Afternoon Session 1 (Munster Suite)</b> <br>          Knime with R <br>         Presented by [Paolo Tamagnini](https://twitter.com/paolotamag) |
+|14.40 - 15:10 |  <b>Afternoon Session 2 (Munster Suite)</b> <br>         Data Optimisation Network <br>         Gaurav Pahuja <br>         (Finalist in the Student Data Scientist of the Year category of the  [DatSci Awards 2019](https://www.datsciawards.com/finalists-2019/#/))|
+| | (*Pause*) |
+|15:20-15:50| <b>CAREER ZOO COMMUNITY KEYNOTE @ Main stage</b> <br> [Abeba Birhane](https://twitter.com/Abebab) - Award winning PHD Student on ethics in AI <br> (*N.B. This is not an R-specific talk*) |
+| | (*Pause*) |
+| 16:00-16:30 | <b>Afternoon Session 3 (Munster Suite)</b> <br> Visualizing Trends in the Loudness of Popular Music <br> Presented by [David Curran](https://twitter.com/iamreddave) |
+| 16:30-17:00 | <b>Afternoon Session 3 (Munster Suite)</b> <br> Sean Walsh <br> R in Bord Gais |
 
 
 
@@ -242,7 +177,7 @@ Column
 
 * Turbo-Charging your technical dexterity using Git and GitHub: A hands-on workshop
 
-<h4>Abstract: </h4>
+<h5>Abstract: </h5>
 This workshop covers all that is needed to integrate git into your daily development life using GitHub.
 
 We will begin with a discussion of what git is and how it works. 
@@ -288,13 +223,13 @@ Column
 Column
 ---------------
 
-<h4>Forwards Southern Africa Project 2020</h4>
+<h5>Forwards Southern Africa Project 2020</h5>
 
 Forwards (the R Foundation taskforce for underrepresented groups) plan to deliver a number of workshops and talks in neighbouring countries to help develop the R community in Southern Africa. 
 
 The events will be lead by Heather Turner, chair of [Forwards](forwards.github.io), in collaboration with local community organisers and will take place in the first half of March 2020.
 
-<h4> Itinerary</h4>
+<h5> Itinerary</h5>
 
 The planned itinerary is outlined below, further links and dates will be added when available.
 
