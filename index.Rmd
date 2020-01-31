@@ -83,7 +83,6 @@ Column
 |15:20-15:50| <b>CAREER ZOO COMMUNITY KEYNOTE @ Main stage</b> <br> [Abeba Birhane](https://twitter.com/Abebab) - Award winning PHD Student on ethics in AI <br> (*N.B. This is not an R-specific talk*) |
 | | (*Pause*) |
 | 16:00-16:30 | <b>Afternoon Session 3 (Munster Suite)</b> <br> Visualizing Trends in the Loudness of Popular Music <br> Presented by [David Curran](https://twitter.com/iamreddave) |
-| 16:30-17:00 | <b>Afternoon Session 3 (Munster Suite)</b> <br> Sean Walsh <br> R in Bord Gais |
 
 
 
