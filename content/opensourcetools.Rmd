@@ -1,0 +1,21 @@
+Open Source tools for Data Science and Engieering {data-navmenu="Themes"}
+=======================================================
+
+
+Column
+----------------------------------
+
+#### Open Source tools for Data Science and Engieering
+
+
+Open source tools provide access to competitive features and integrations free of charge without depending on software vendors. They also possess key technical capabilities such as scaling, adaptability, and consolidation.
+
+In this track, we will explore the best open source data visualization tools, along with their specific strengths and weaknesses. 
+
+This track will not feature the R programming language. Rather it will explore the wordl beyond R, with a view to exploring what collaborations should be explore in the future.
+
+#### Examples
+
+* Apache Druid
+
+* Apache Redis

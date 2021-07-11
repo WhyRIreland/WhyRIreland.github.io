@@ -1,0 +1,26 @@
+
+Why R at Career Zoo Limerick {data-navmenu="Previous Events"}
+================================================
+
+Column 
+------------------------------------------------
+
+#### Why R Limerick 2020 
+
+<div>
+<center>
+<img src="./resources/whyrlimerick2020.jpg" width=350 alt="">
+</center>
+</div>
+
+#### Event Details
+
+* Date: Saturday 1st February 2020
+* Location: Thomond Park Stadium, Cratloe Road, Limerick.
+* Times: 10.00am to 16:30pm approx
+* Career Zoo Limerick's [Website](https://www.careerzoo.ie/limerick/)
+* Why R? Limerick's [Website](https://www.careerzoo.ie/limerick/why-r-mini-conference.html)
+
+
+Full Details can be found <a href = "WhyR-Limerick-Career-Zoo-2020.html">here </a>. 
+
